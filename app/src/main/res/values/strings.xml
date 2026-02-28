@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Util-Idades</string>
+    <string name="title_activity_conversor">ConversorActivity</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="title_activity_shopping_list">ShoppingListActivity</string>
+    <string name="title_activity_form_product">FormActivity</string>
+    <string name="title_activity_images">ImagesActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_qr_scanner">QrScannerActivity</string>
+    <string name="title_activity_pool_8">Magic8BallActivity</string>
+</resources>
